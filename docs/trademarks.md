@@ -1,4 +1,4 @@
-# Trademarks
+  # Trademarks
 
 The names of products or other services on this site are the trademarks or registered trademarks of their respective companies.
 
